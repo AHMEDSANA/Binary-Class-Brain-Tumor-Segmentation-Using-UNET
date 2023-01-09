@@ -254,7 +254,7 @@ TABLE: SEGMENTATION OF BRAIN TUMOR
 
 # Running the Code
 To  run this code you will have to run the three axis files to train the model and save it on your pc or on drive if you are using google colab.
-After training the three axis run the main file and give it the location of your three differnt axis models locarion.
+After training the three axis run the main file and give it the location of your three differnt axis models.
 We are training the three axis because of the three views we discussed above. And in each view we will slice the image into 2D images to give it to our model to train it.
 The running of the code is very simple and the libraries used are commonly used libraries like Keras, Tensorflow, Nibabel, Panda etc.
 You just have to give location of the dataset in the above files and just run the code.
